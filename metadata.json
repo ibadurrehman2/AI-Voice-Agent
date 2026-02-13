@@ -1,0 +1,5 @@
+{
+  "name": "Nexus Voice AI - Auth Module",
+  "description": "A modular Voice AI Agent application featuring multi-tenant authentication, role-based access control, and a modern dashboard interface.",
+  "requestFramePermissions": []
+}
